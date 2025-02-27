@@ -10,7 +10,10 @@ from pynput import keyboard
 
 
 """
-Author: Jose Miguel Gonzalez Zaragoza
+Authors: 
+    Jose Miguel Gonzalez Zaragoza
+    Ricardo de Jesus Cepeda Varela
+    David Sebastian Izaguirre Garza
 Teacher: Gilberto Alfonso Montez Ramirez
 Class: Laboratorio de Robotica y Sistemas Inteligentes
 Date: 02/26/2025

@@ -6,7 +6,10 @@ import numpy as np
 from gpiozero import DistanceSensor, Motor, PWMOutputDevice
 
 """
-Author: Jose Miguel Gonzalez Zaragoza
+Authors: 
+    Jose Miguel Gonzalez Zaragoza
+    Ricardo de Jesus Cepeda Varela
+    David Sebastian Izaguirre Garza
 Teacher: Gilberto Alfonso Montez Ramirez
 Class: Laboratorio de Robotica y Sistemas Inteligentes
 Date: 02/26/2025
